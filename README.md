@@ -1,1 +1,1 @@
-# Classification-project
+# Project 03: Classification project
