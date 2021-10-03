@@ -9,6 +9,8 @@
 #### Email: abeeralruwaitea@gmail.com
 # Background:
 
+Customer churn is one of the most vital data points for businesses to track. Customer churn analysis helps you identify key stages in the customer journey where people are falling off, allowing you to pinpoint specific strategies to improve their interactions with your brand and improve brand loyalty.
+
 # Data Description:
 
 In this project, we obtaind our dataset from (https://www.kaggle.com/blastchar/telco-customer-churn)  <br />
