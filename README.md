@@ -7,6 +7,7 @@
 
 #### Name: Abeer AlRuwayti
 #### Email: abeeralruwaitea@gmail.com
+# Background:
 
 # Data Description:
 
@@ -14,11 +15,12 @@ In this project, we obtaind our dataset from (https://www.kaggle.com/blastchar/t
 Each row represents a customer, each column contains customer’s attributes described on the table below <br />
 The raw data contains 7043 rows (customers) and 21 columns (features) <br />
 The “Churn” column is our target <br />
+ <br />
 
  |Features|Description                                                                         |  Type |
  |-------|--------------------------------------------------------------------------------------|--- |
  |                                                                                                    |
- | customerID | customer identification number                                                | Object |
+ | customerID | Customer identification number                                                | Object |
  | Gender | Whether the customer is a male or a female                                         | Object |
  | SeniorCitizen | Whether the customer is a senior citizen or not (1, 0)                      | int64 | 
  | Partner | Whether the customer has a partner or not (Yes, No)                               | Object |
