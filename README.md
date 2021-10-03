@@ -18,7 +18,7 @@ The “Churn” column is our target
  |Features|Description                                                                         |  Type |
  |-------|--------------------------------------------------------------------------------------|--- |
  |                                                                                                    |
- | customerID | customerID                                                                     | Object |
+ | customerID | customer identification number                                                | Object |
  | Gender | Whether the customer is a male or a female                                         | Object |
  | SeniorCitizen | Whether the customer is a senior citizen or not (1, 0)                      | int64 | 
  | Partner | Whether the customer has a partner or not (Yes, No)                               | Object |
