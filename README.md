@@ -11,7 +11,7 @@
 
 Customer churn is one of the most vital data points for businesses to track. Customer churn analysis helps you identify key stages in the customer journey where people are falling off, allowing you to pinpoint specific strategies to improve their interactions with your brand and improve brand loyalty.
 
-What is customer churn?
+#### What is customer churn?
 Customer churn is the rate at which customers leave your company. This could be for a variety of reasons, such as switching to a competitor, canceling their subscription due to poor customer service, stopping all contact with a brand because of too few touchpoints, etc. Customer churn analysis is important for obvious reasons: lost customers mean a direct loss of revenue.
 
 # Data Description:
