@@ -7,12 +7,12 @@
 
 # Tools:
 
-### Technologies
+#### Technologies
 
-Python
-Jupyter Notebook
+* Python
+* Jupyter Notebook
 
-### Libraries
+#### Libraries
 
 * NumPy
 * Pandas
