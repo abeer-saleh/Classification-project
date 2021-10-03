@@ -1,4 +1,6 @@
 # Project 03: Classification project
+ 
+![image](https://user-images.githubusercontent.com/79164554/135759145-56aa1f71-1d0d-4cc8-a8d1-1aec258254e7.png)
 
 #### Name: Abeer AlRuwayti
 #### Email: abeeralruwaitea@gmail.com
