@@ -4,3 +4,19 @@
 #### Email: abeeralruwaitea@gmail.com
 
 # Data Description:
+
+# Tools:
+
+### Technologies
+
+Python
+Jupyter Notebook
+
+### Libraries
+
+* NumPy
+* Pandas
+* Matplotlib
+* Seaborn 
+* Sklearn
+* Pandas Profiling
