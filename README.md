@@ -10,11 +10,10 @@
 
 # Data Description:
 
-In this project, we obtaind our dataset from (https://www.kaggle.com/blastchar/telco-customer-churn)
-
-Each row represents a customer, each column contains customer’s attributes described on the table below
-The raw data contains 7043 rows (customers) and 21 columns (features)
-The “Churn” column is our target
+In this project, we obtaind our dataset from (https://www.kaggle.com/blastchar/telco-customer-churn)  <br />
+Each row represents a customer, each column contains customer’s attributes described on the table below <br />
+The raw data contains 7043 rows (customers) and 21 columns (features) <br />
+The “Churn” column is our target <br />
 
  |Features|Description                                                                         |  Type |
  |-------|--------------------------------------------------------------------------------------|--- |
